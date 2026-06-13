@@ -4,4 +4,4 @@ JADWAL SENIN SAMPAI JUMAT
 - selasa: kbm
 - rabu: libur nasional
 - kamis: kbm
-- jumat: kbm
+- jumat: sholat dhuha
